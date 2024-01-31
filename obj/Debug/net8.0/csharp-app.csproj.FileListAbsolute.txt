@@ -1,0 +1,14 @@
+/Users/timromero/csharp-app/bin/Debug/net8.0/csharp-app
+/Users/timromero/csharp-app/bin/Debug/net8.0/csharp-app.deps.json
+/Users/timromero/csharp-app/bin/Debug/net8.0/csharp-app.runtimeconfig.json
+/Users/timromero/csharp-app/bin/Debug/net8.0/csharp-app.dll
+/Users/timromero/csharp-app/bin/Debug/net8.0/csharp-app.pdb
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.AssemblyInfoInputs.cache
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.AssemblyInfo.cs
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.csproj.CoreCompileInputs.cache
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.dll
+/Users/timromero/csharp-app/obj/Debug/net8.0/refint/csharp-app.dll
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.pdb
+/Users/timromero/csharp-app/obj/Debug/net8.0/csharp-app.genruntimeconfig.cache
+/Users/timromero/csharp-app/obj/Debug/net8.0/ref/csharp-app.dll
